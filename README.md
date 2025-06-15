@@ -1,3 +1,5 @@
+This was a test- and speedrun, how fast GitHub CodeSpaces and Copilot could create a bread-and-butter bioinformatics algorithm. Answer: 15 Minutes including getting to know Codespaces.
+
 # My C Project
 
 This project is a simple C application that demonstrates the structure and setup of a C programming project.
