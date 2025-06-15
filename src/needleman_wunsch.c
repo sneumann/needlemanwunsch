@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <math.h>
 
-static int is_match(double a, double b) {
-    return fabs(a - b) < 1e-6;
+static int is_match(char a, char b) {
+    return a == b;
 }
 
 double needleman_wunsch(
-    const double* seq1, size_t len1,
-    const double* seq2, size_t len2,
+    const char* seq1, size_t len1,
+    const char* seq2, size_t len2,
     double match_score,
     double mismatch_penalty,
     double gap_penalty
