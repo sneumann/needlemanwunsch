@@ -47,3 +47,8 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Copilot usage:
+Prompts used were
+`create a makefile and mainc template file for a c language project`
+`add a function to calculate the optimal path with needleman-wunschl algorithm. Use double values. Create a unit test for a typical case and a few corner cases`
